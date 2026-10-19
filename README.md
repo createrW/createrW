@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Hi, I'm Evan (Yi) Zhao 👋
@@ -62,4 +61,3 @@ Building scalable LLM systems, multimodal ML pipelines, and backend services.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-```
