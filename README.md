@@ -16,14 +16,9 @@ Building scalable LLM systems, multimodal ML pipelines, and backend services.
 
 ### 👨‍💻 About Me
 
-- 💼 **MLE Intern @ SHEIN · Summer 2026**  
-  Built **AutoPE**, a DAG-based multi-agent LLM optimization service adopted by **~20 engineers**, cutting prompt-tuning cycles from **1–2 days to 6 hours**. Also built retrieval workflows on a platform managing **1.4B multimodal vectors**, using Milvus/DiskANN.
+- 💼 **Previously @ SHEIN** — Billion-scale risk retrieval & multimodal content reasoning.
+- 🔬 **Previously @ Boston College** — Automated segmentation correction for PB-scale 3D electron microscopy data (MICrONS).
 
-- 🔬 **Research**  
-  Former Research Assistant @ **Boston College**. Co-authored **NuGraph** for 3D nucleus segmentation correction (*bioRxiv preprint*, 2026) and research on cross-domain crater detection (*Remote Sensing*, 2024).
-
-- 🏅 **Honors**  
-  Kaggle UBC-OCEAN **Bronze Medal — Top 6% (76/1,326)** · CCF CAT **National 3rd Prize** · Baidu Star **Bronze Award**
 
 ### 🚀 Featured Projects
 
