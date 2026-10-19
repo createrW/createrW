@@ -6,9 +6,9 @@ Building scalable LLM systems, multimodal ML pipelines, and backend services.
 
 🔎 **Seeking Summer 2027 internships in Machine Learning Engineering and Software Engineering.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Evan_Zhao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi-z-95851b361/)
-[![Email](https://img.shields.io/badge/Email-yzhao470%40usc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yzhao470@usc.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-createrW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/createrW)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi-z-95851b361/) |
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/createrW) |
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yzhao470@usc.edu)
 
 </div>
 
@@ -16,7 +16,7 @@ Building scalable LLM systems, multimodal ML pipelines, and backend services.
 
 ### 👨‍💻 About Me
 
-- 💼 **Previously @ SHEIN** — Billion-scale risk retrieval & multimodal content reasoning.
+- 💼 **Previously @ SHEIN** — Multi-agent LLM optimization, billion-scale risk retrieval & multimodal reasoning.
 - 🔬 **Previously @ Boston College** — Automated segmentation correction for PB-scale 3D electron microscopy data (MICrONS).
 
 
