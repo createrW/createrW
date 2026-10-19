@@ -1,17 +1,65 @@
-### Hi, I'm Evan 👋
+```markdown
+<div align="center">
 
-Master's in Computer Science at **University of Southern California** (Jan 2026 - Dec 2027), focusing on **LLM systems, multi-modal ML, and backend engineering**.
+# Hi, I'm Evan (Yi) Zhao 👋
 
-**🔬 Research**: Co-authored *NuGraph: Graph-Based Reasoning over 3D Primitives* (bioRxiv 2026) and *Two-Stage Adaptive Network for Cross-Domain Crater Detection* (Remote Sensing 2024).
+**M.S. in Computer Science @ University of Southern California**  
+**Expected graduation: December 2027**
 
-**💼 Experience**: Machine Learning Engineer Intern @ SHEIN (Jun-Aug 2026) — built AutoPE, a multi-agent LLM optimization service that cut prompt-tuning cycles from 1-2 days to 6 hours for ~20 engineers.
+Building scalable LLM systems, multimodal ML pipelines, and backend services.
 
-**🚀 Highlighted projects** (pinned below):
-- `shopsage-recommender` — Two-Tower + LightGBM ranker on MovieLens-20M, Recall@50 0.58
-- `shopsage-micro-platform` — Spring Boot 3 microservices with Saga + chaos testing, QPS 5K @ p99 180ms
-- `llm-eval-harness` — Open-source LLM evaluation harness with bootstrap 95% CIs
-- `pannuke-nugraph-extension` — Extending my NuGraph research to pathology WSI segmentation
+🔎 **Seeking Summer 2027 internships in Machine Learning Engineering and Software Engineering.**
 
-**🏅 Honors**: Kaggle UBC-OCEAN Bronze (Top 6%), CCF CAT 3rd Prize, Baidu Star Bronze.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Evan_Zhao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi-z-95851b361/)
+[![Email](https://img.shields.io/badge/Email-yzhao470%40usc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yzhao470@usc.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-createrW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/createrW)
 
-**📫 Reach me**: [LinkedIn](https://linkedin.com/in/yi-z-95851b361) · [Email](mailto:yzhao470@usc.edu)
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 💼 **MLE Intern @ SHEIN · Summer 2026**  
+  Built **AutoPE**, a DAG-based multi-agent LLM optimization service adopted by **~20 engineers**, cutting prompt-tuning cycles from **1–2 days to 6 hours**. Also built retrieval workflows on a platform managing **1.4B multimodal vectors**, using Milvus/DiskANN.
+
+- 🔬 **Research**  
+  Former Research Assistant @ **Boston College**. Co-authored **NuGraph** for 3D nucleus segmentation correction (*bioRxiv preprint*, 2026) and research on cross-domain crater detection (*Remote Sensing*, 2024).
+
+- 🏅 **Honors**  
+  Kaggle UBC-OCEAN **Bronze Medal — Top 6% (76/1,326)** · CCF CAT **National 3rd Prize** · Baidu Star **Bronze Award**
+
+### 🚀 Featured Projects
+
+- **`shopsage-recommender`** — Two-Tower retrieval + LightGBM ranking on MovieLens-20M; **Recall@50: 0.58**.
+- **`shopsage-micro-platform`** — Spring Boot 3 microservices with Saga orchestration and chaos testing; **5K QPS at 180 ms p99 latency**.
+- **`llm-eval-harness`** — Open-source LLM evaluation harness with bootstrap **95% confidence intervals**.
+- **`pannuke-nugraph-extension`** — Extending my NuGraph research to pathology whole-slide image (WSI) segmentation.
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**ML, LLM & Retrieval**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-1E88E5?style=flat-square)
+![Milvus](https://img.shields.io/badge/Milvus%20%28DiskANN%29-00A1EA?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+**Backend, Data & Infrastructure**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+```
