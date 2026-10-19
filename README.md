@@ -1,9 +1,6 @@
 <div align="center">
 
-# Hi, I'm Evan (Yi) Zhao 👋
-
-**M.S. in Computer Science @ University of Southern California**  
-**Expected graduation: December 2027**
+# Hi, I'm Evan 👋
 
 Building scalable LLM systems, multimodal ML pipelines, and backend services.
 
